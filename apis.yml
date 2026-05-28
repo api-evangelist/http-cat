@@ -1,0 +1,32 @@
+aid: http-cat
+name: HTTP Cat
+description: "Cat for every HTTP Status"
+url: https://http.cat/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Animals"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Animals
+  - Public APIs
+apis:
+  - name: HTTP Cat
+    description: "Cat for every HTTP Status"
+    humanURL: https://http.cat/
+    baseURL: https://http.cat/
+    tags:
+      - Animals
+    properties:
+      - type: Documentation
+        url: https://http.cat/
+common:
+  - type: Website
+    url: https://http.cat/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
