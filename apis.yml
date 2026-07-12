@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://http.cat/
 common:
+  - type: DomainSecurity
+    url: security/http-cat-domain-security.yml
   - type: Website
     url: https://http.cat/
   - type: PublicAPIsListing
