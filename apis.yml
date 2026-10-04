@@ -39,7 +39,6 @@ apis:
   - name: HTTP Cat
     description: "Cat for every HTTP Status"
     humanURL: https://http.cat/
-    baseURL: https://http.cat/
     tags:
       - Animals
     properties:
